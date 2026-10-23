@@ -1,3 +1,5 @@
+package com.plurasight;
+
 public class WhileLoop {
     public static void main(String[] args) {
         int i = 0;//declear i to use it for condtion in while
